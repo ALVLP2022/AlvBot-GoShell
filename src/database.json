@@ -1,0 +1,109 @@
+{
+  "users": {
+    "6285727790018@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285161710084@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6288983679202@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6288221244121@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6281567658850@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "62882005469093@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6281393081574@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6281328752518@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    }
+  },
+  "chats": {
+    "6285727790018@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363043408347267@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363028379588250@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6288221244121@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6281567658850@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6285161710084@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "62882005469093@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6281393081574@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6281328752518@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6285727790018@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
