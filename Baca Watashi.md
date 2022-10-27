@@ -18,7 +18,7 @@
 * Unduh & Instal NodeJS   [`Here`](https://nodejs.org/en/download)
 \n
 * Unduh & Instal FFmpeg   [`Here`](https://ffmpeg.org/download.html)
-\n
+
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
