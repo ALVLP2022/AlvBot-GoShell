@@ -1,6 +1,6 @@
 <h1 align="center">ꪶALVBOT - MD ꫂ<br></h1>
 <p align="center">
-<img src="https://github.com/ALVLP2022/AlvBot-GoShell/blob/main/media/WhatsApp-Video-2022-10-25-at-164.gif" alt="animated" width="540" height="280" />
+<img src="https://github.com/ALVLP2022/AlvBot-GoShell/blob/main/media/WhatsApp-Video-2022-10-25-at-164.gif" alt="animated" width="420" height="280" />
 </p>
 
 
