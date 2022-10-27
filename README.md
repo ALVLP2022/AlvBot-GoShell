@@ -5,7 +5,7 @@
 
 
 
-[`Official AlvBot`](wa.me/6285727790018)
+[`Review/Try AlvBot`](wa.me/6285727790018)
 </p>
 
 
@@ -14,11 +14,11 @@
 ## UNTUK PENGGUNA WINDOWS/RDP
 
 * Unduh & Instal Git      [`Here`](https://git-scm.com/downloads)
-
+\n
 * Unduh & Instal NodeJS   [`Here`](https://nodejs.org/en/download)
-
+\n
 * Unduh & Instal FFmpeg   [`Here`](https://ffmpeg.org/download.html)
-
+\n
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
